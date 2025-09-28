@@ -1,7 +1,7 @@
 @font-face {
   font-family: "eicons";
-  src: url("/newPFlo/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5_44_0");
-  src: url("/newPFlo/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5_44_0#iefix") format("embedded-opentype"), url("/newPFlo/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5_44_0") format("woff2"), url("/newPFlo/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5_44_0") format("woff"), url("/newPFlo/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5_44_0") format("truetype"), url("/newPFlo/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5_44_0#eicon") format("svg");
+  src: url("https://rulerofeternalnight.github.io/newPFlo/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5_44_0");
+  src: url("https://rulerofeternalnight.github.io/newPFlo/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5_44_0#iefix") format("embedded-opentype"), url("https://rulerofeternalnight.github.io/newPFlo/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5_44_0") format("woff2"), url("https://rulerofeternalnight.github.io/newPFlo/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5_44_0") format("woff"), url("https://rulerofeternalnight.github.io/newPFlo/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5_44_0") format("truetype"), url("https://rulerofeternalnight.github.io/newPFlo/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5_44_0#eicon") format("svg");
   font-weight: normal;
   font-style: normal;
 }
